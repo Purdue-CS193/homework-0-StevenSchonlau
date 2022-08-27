@@ -3,7 +3,9 @@ Favorite things about CS193:
 - Learning code
 - Learning from other students
 - Smaller class than 180
-## Steven Schonlau Purdue GitHub
+
+
+## StevenSchonlau's Purdue GitHub
 
 Steven Schonlau is a CS freshman at Purdue.
 
